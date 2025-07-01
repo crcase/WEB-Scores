@@ -17,4 +17,4 @@ Users of the dataset should cite the corresponding article:
 > Case, Colin R.. "Measuring Strategic Positioning in Congressional Elections." _Journal of Politics._ (Conditionally Accepted).
 
 ## Download
-The dataset in CSV format is available here (last updated on July 1, 2025).
+The dataset in CSV format is available [here](https://github.com/crcase/WEB-Scores/blob/main/webscores2018-2022.csv) (last updated on July 1, 2025) by clicking "download raw file" in the upper right hand corner.
