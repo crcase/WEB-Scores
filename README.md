@@ -13,7 +13,8 @@ This dataset contains positioning estimates (WEB Scores) for candidates running 
 
 ## Citation
 Users of the dataset should cite the corresponding article:
-    Case, Colin R.. "Measuring Strategic Positioning in Congressional Elections." _Journal of Politics._ (Conditionally Accepted).
+
+> Case, Colin R.. "Measuring Strategic Positioning in Congressional Elections." _Journal of Politics._ (Conditionally Accepted).
 
 ## Download
 The dataset in CSV format is available here (last updated on July 1, 2025).
