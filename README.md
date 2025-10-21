@@ -1,7 +1,7 @@
 # Word Embedding Strategic Positioning (WEB) Scores for U.S. House Candidates (2018-2022)
 
 ## Overview
-This dataset contains positioning estimates (WEB Scores) for candidates running for the U.S. House of Representatives from 2018 to 2022. WEB Scores are estimated using candidates' campaign website issue statements ([CampaignView](https://campaignview.org/)). A description of the methodology and scores can be found [here](https://www.colinrcase.com/files/case_measuringpositioning.pdf). The dataset contains the following variables:
+This dataset contains positioning estimates (WEB Scores) for candidates running for the U.S. House of Representatives from 2018 to 2022. WEB Scores are estimated using candidates' campaign website issue statements ([CampaignView](https://campaignview.org/)). A description of the methodology and scores can be found [here](https://doi.org/10.1086/738502). The dataset contains the following variables:
 - candidate_webname: the candidate's name, standardized across years
 - state_postal: the candidate's state postal abbreviation
 - cd: the candidate's congressional district
