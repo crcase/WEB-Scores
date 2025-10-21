@@ -14,7 +14,7 @@ This dataset contains positioning estimates (WEB Scores) for candidates running 
 ## Citation
 Users of the dataset should cite the corresponding article:
 
-> Case, Colin R.. "Measuring Strategic Positioning in Congressional Elections." _Journal of Politics._ (Conditionally Accepted).
+> Case, Colin R.. "Measuring Strategic Positioning in Congressional Elections." _Journal of Politics._ 89, no. 1 (2027). [https://doi.org/10.1086/738502](https://doi.org/10.1086/738502).
 
 ## Download
 The dataset in CSV format is available [here](https://github.com/crcase/WEB-Scores/blob/main/webscores2018-2022.csv) (last updated on July 1, 2025) by clicking "download raw file" in the upper right hand corner.
